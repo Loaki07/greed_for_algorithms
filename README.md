@@ -6,6 +6,7 @@
 
 ## [Math](./Math)
 1. [x] [Reverse Of Given Number](./Math/ReverseOfGivenNumber)
+2. [x] [PrimeNumber](./Math/PrimeNumber)
 
 ## Instructions to Run Code
 1. Rust
